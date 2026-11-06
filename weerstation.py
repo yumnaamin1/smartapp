@@ -14,7 +14,7 @@ def weerrapport(temp_celcius, windsnelheid, luchtvochtigheid):
     elif gevoel < 10 and windsnelheid > 12:
         return "Het is best koud en het waait; verwarming aan en roosters dicht!"
     elif gevoel < 10:
-        return "Het is een beetje koud, elektrische kachel op de benedenverdieping aan!"
+        return "Het is een beetje koud, elektrische kachel op de benedenverdieping    aan!"
     elif gevoel < 22:
         return "Heerlijk weer, niet te koud of te warm."
     else:

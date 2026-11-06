@@ -1,0 +1,6 @@
+spaardoel;1000.0
+inkomsten;200.0
+inkomsten;200.0
+inkomsten;9000.0
+uitgaven;50.0
+uitgaven;50.0
